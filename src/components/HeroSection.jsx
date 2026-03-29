@@ -28,7 +28,7 @@ const HeroSection = () => {
             </h1>
 
             <p className="max-w-[600px] text-lg text-muted-foreground sm:text-xl mx-auto lg:mx-0">
-              An AI-powered messaging platform featuring live voice translation.
+              An AI-powered messaging platform featuring live text translation.
               Experience seamless remote collaboration across the globe.
             </p>
 

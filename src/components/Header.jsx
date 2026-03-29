@@ -4,6 +4,7 @@ import { Button } from "./ui/button";
 import { MessageSquare, LogOut } from "lucide-react";
 import { useAuth } from "../context/AuthContext";
 
+
 const Header = () => {
   const { user, setUser } = useAuth();
   const navigate = useNavigate();
